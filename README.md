@@ -1,50 +1,77 @@
-# Welcome to your Expo app 👋
+# Humbble - The Open Source Dating App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Humbble is an open-source dating app alternative to Bumble. Our goal is to create a privacy-focused, feature-rich dating platform that is free from corporate control and empowers users with transparency and choice.
 
-## Get started
+## 🚀 Features
 
-1. Install dependencies
+- **Matchmaking Algorithm** – Smart and customizable matching system.
+- **Privacy First** – No tracking, no data selling.
+- **Real-Time Chat** – Secure messaging between matches.
+- **Open-Source** – Transparent and community-driven.
+- **Cross-Platform** – Available for Web, Android, and iOS.
 
-   ```bash
-   npm install
-   ```
+## 💡 Why Humbble?
 
-2. Start the app
+Many dating apps prioritize profits over user experience and privacy. Humbble is different. By making the code open-source, we invite developers to contribute, improve, and ensure fairness in online dating.
 
-   ```bash
-    npx expo start
-   ```
+## 🔧 Getting Started
 
-In the output, you'll find options to open the app in a
+### Prerequisites
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Node.js & npm installed
+- React Native CLI for mobile development
+- Firebase or a backend of choice for authentication and database
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Installation
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```sh
+git clone https://github.com/Prakashchandra-007/Humbble.git
+cd Humbble
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Running the Project
 
-## Learn more
+For Web:
 
-To learn more about developing your project with Expo, look at the following resources:
+```sh
+npm start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+For Android:
 
-## Join the community
+```sh
+npn run android
+```
 
-Join our community of developers creating universal apps.
+For iOS:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```sh
+npm run ios
+```
+
+## 👥 Contributing
+
+We welcome all contributions! If you’d like to contribute:
+
+1. Fork the repository
+2. Create a new branch (`feature-new-feature`)
+3. Commit your changes (`git commit -m "Added new feature"`)
+4. Push to the branch (`git push origin feature-new-feature`)
+5. Create a Pull Request
+
+Check our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## 📜 License
+
+Humbble is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## 📢 Community & Support
+
+Join the discussion on:
+
+- [Discord](#) _(Link Coming Soon)_
+- [Twitter](#) _(Link Coming Soon)_
+- [GitHub Discussions](https://github.com/yourusername/Humbble/discussions)
+
+Let's build a better dating experience together! ❤️
