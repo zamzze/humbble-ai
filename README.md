@@ -70,8 +70,8 @@ Humbble is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 Join the discussion on:
 
-- [Discord](#) _(Link Coming Soon)_
-- [Twitter](https://discord.gg/vGSWrzCF)
+- [Discord](https://discord.gg/vGSWrzCF)
+- [Twitter](https://x.com/prakash_cm_007)
 - [GitHub Discussions](https://github.com/Prakashchandra-007/humbble/discussions)
 
 Let's build a better dating experience together! ❤️
