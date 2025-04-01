@@ -72,6 +72,6 @@ Join the discussion on:
 
 - [Discord](#) _(Link Coming Soon)_
 - [Twitter](#) _(Link Coming Soon)_
-- [GitHub Discussions](https://github.com/yourusername/Humbble/discussions)
+- [GitHub Discussions](https://github.com/Prakashchandra-007/humbble/discussions)
 
 Let's build a better dating experience together! ❤️
