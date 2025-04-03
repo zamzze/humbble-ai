@@ -68,11 +68,11 @@ We welcome all contributions! If you’d like to contribute:
 4. Push to the branch (`git push origin feature-new-feature`)
 5. Create a Pull Request
 
-Check our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+Check our [CONTRIBUTING.md](https://github.com/Prakashchandra-007/humbble/blob/main/CONTRIBUTING.md) for more details.
 
 ## 📜 License
 
-Humbble is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Humbble is licensed under the MIT License. See [LICENSE](https://github.com/Prakashchandra-007/humbble/blob/main/LICENSE) for details.
 
 ## 📢 Community & Support
 
